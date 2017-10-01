@@ -16,12 +16,7 @@
 title: Kiran Hegde
 email: kiran.hegde121@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my latest attempt at documenting and organizing parts of my life.
-  It intends to cover a daily overview of my days, a few of many thoughts 
-  my mind ponders upon time to time, and anything that can be documented 
-  during this journey of falling, learning, loving, growing, and finding 
-  my true best self. This site is a process like me, and is not aiming for
-  perfection.
+  My latest attempt at documenting and organizing parts of my life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
